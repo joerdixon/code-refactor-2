@@ -1,12 +1,30 @@
+/* ADD COMMENTS DENOTING SECTIONS OF THE PAGE */
+
+
+/* GENERAL STYLING */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* ELEMENT STYING */
+
 body {
     background-color: #d9dcd6;
 }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* CLASS STYLING */
 
 .header {
     padding: 20px;
@@ -24,7 +42,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,22 +50,13 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
@@ -188,6 +197,8 @@ p {
     font-size: 36px;
 }
 
+/* FOOTER */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +209,8 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+
+
+
+
