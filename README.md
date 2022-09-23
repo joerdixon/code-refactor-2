@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Description
-[Horiseon](https://joerdixon.github.io/code-refactor-2/#social-media-marketing) is a search engine optimization and internet presence manager. This website will introduce you to the services Horiseon offers and the benefits you will recieve through working with us.
+[Horiseon](https://joerdixon.github.io/horiseon-refactor/#social-media-marketing) is a search engine optimization and internet presence manager. This website will introduce you to the services Horiseon offers and the benefits you will recieve through working with us.
 
 ## Features
 
