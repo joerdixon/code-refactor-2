@@ -6,8 +6,6 @@
     margin: 0;
 }
 
-/* ELEMENT STYING */
-
 body {
     background-color: #d9dcd6;
 }
@@ -20,6 +18,10 @@ a {
 p {
     font-size: 16px;
 }
+
+/* ELEMENT STYING */
+
+/* HEADER */
 
 header {
     padding: 20px;
@@ -48,6 +50,19 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
+}
+
+/* FOOTER */
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
 }
 
 /* CLASS STYLING */
@@ -129,20 +144,6 @@ header h1 .seo {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/* FOOTER */
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-}
-
 
 
 
