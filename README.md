@@ -1,6 +1,6 @@
 # Horiseon
 
-Horiseon is a search engine optimization and internet presence 
+Horiseon is a search engine optimization and internet presence manager. Use our site 
 
 
 
